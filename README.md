@@ -28,21 +28,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
+
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/banukaweerapperumaa">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BanukaWeerapperuma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BanukaWeerapperuma&layout=compact&langs_count=8&theme=algolia"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BanukaWeerapperuma&show_icons=true&locale=en&layout=compact" alt="banukaweerapperuma" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BanukaWeerapperuma&show_icons=true&locale=en" alt="banukaweerapperuma" /></p>
+
+<!--
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-</p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=banukaweerapperuma&show_icons=true&locale=en&layout=compact" alt="banukaweerapperuma" /></p>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BanukaWeerapperuma&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=banukaweerapperuma&show_icons=true&locale=en" alt="banukaweerapperuma" /></p>
-
+-->
