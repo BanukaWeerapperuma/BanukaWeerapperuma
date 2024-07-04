@@ -18,7 +18,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/banuka-weerapperuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="banuka-weerapperuma" height="30" width="40" /></a>
 <a href="https://fb.com/banuka.eranda.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="banuka.eranda.90" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tech4heart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech4heart" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tech4heart58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech4heart" height="30" width="40" /></a>
 </p>
 
 <br>
