@@ -1,5 +1,5 @@
 <h1 align="center">I'm Banuka Weerapperuma</h1>
-<p align="center"><picture ><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 150px ></picture></p>
+<p align="center"><picture ><img src = "https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width = 150px ></picture></p>
 
 <h3 align="center">Self-taught Programmer | Passionate about Code | Developer from Sri lanka</h3>
 
